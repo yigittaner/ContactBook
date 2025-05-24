@@ -1,4 +1,4 @@
-Rock Paper Scissors - JavaFX Game 🎮
+Contact Book- JavaFX  
 This is a Contact Book application builted using JavaFX as a final project for the Programming II course (Section 2). The application provides to access phone directory,user can add,delete,edit their users.
 
 🛠 Features
